@@ -69,11 +69,11 @@
     <distributionManagement>
         <snapshotRepository>
             <id>jfrog-snapshots</id>
-            <url>https://stech.jfrog.io/artifactory/libs-snapshot/</url>
+            <url>https://stec.jfrog.io/artifactory/stec-maven-repo/</url>
         </snapshotRepository>
         <repository>
             <id>jfrog-releases</id>
-            <url>https://stech.jfrog.io/artifactory/libs-release/</url>
+            <url>https://stec.jfrog.io/artifactory/stec-maven-repo/</url>
         </repository>
     </distributionManagement>
 
