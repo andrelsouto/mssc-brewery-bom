@@ -84,6 +84,7 @@
             <artifactId>spring-boot-starter-validation</artifactId>
         </dependency>
     </dependencies>
+
     <distributionManagement>
         <snapshotRepository>
             <id>snapshots</id>
